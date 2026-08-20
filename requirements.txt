@@ -1,1 +1,10 @@
 
+### `requirements.txt` bhi ek hi baar mein:
+
+```text
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
